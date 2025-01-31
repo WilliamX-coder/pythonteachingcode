@@ -1,3 +1,5 @@
+
+
 '''
 This is a grade tracking program - think through the goal up front- what is the task and design?
 needs to enable several basic functions for faculty members.
@@ -9,7 +11,7 @@ See https://www.geeksforgeeks.org/python-docstrings/
 import statistics as s
 
 #add constants next
-admins = {'Faculty1':'ABC123','Faculty2':'ABC123','Dominic':'Thomas'}
+admins = {'William':'Christmas','Faculty2':'ABC123','Dominic':'Thomas'}
 
 # Like the admins above is a dictionary but of students.
 # Dictionaries use curly brackets with colons to associate keys with values.
